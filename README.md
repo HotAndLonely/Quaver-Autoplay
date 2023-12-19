@@ -1,3 +1,6 @@
+<h1>Click this image to see the video!</h1>
+
+[![Watch the video](https://i.ibb.co/DCQZ8rT/image.png)](https://youtu.be/aDZ5MkhPbc8?si=Sztgu2GsCBawEZLt)
 > [!CAUTION]
 > Please don't use this code to gain an advantage in the game. It ruins the experience for the rest of the players,
 >  and you'll get caught because it's very obvious. <b>If you still want to try it, play offline.</b>
