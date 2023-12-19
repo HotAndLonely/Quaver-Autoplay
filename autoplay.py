@@ -1,6 +1,4 @@
 # LIBRARIES
-import tkinter as tk
-import threading
 from win32gui import GetWindowText, GetForegroundWindow
 from pyautogui import pixel
 from time import sleep
