@@ -23,4 +23,23 @@ git clone https://github.com/HotAndLonely/Quaver-Autoplay
 ```
 cd .\Quaver-Autoplay\
 ```
-
+Pip install requirements
+```
+pip install -r .\requirements.txt
+```
+Run coords script and 4k note slots position coords and background rgb color.
+```
+python .\show_coords_color.py
+```
+Modify the autoplay script variables
+```
+# CHANGE THIS (EXAMPLE)
+bg_color      = (20, 20, 20)            # Color of note slot without notes
+coords_x      = [770, 900, 1015, 1140]  # X coords of every note slot horizontal left to right 4k mode
+coords_y      = 900                     # Y coord of note slots vertical
+game_controls = ['w', 'e', 'i', 'o']    # Game controls left to right 4k mode
+```
+Run when song starts
+```
+python .\autoplay.py
+```
