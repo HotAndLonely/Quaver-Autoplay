@@ -20,5 +20,7 @@ Clone repository
 ```
 git clone https://github.com/HotAndLonely/Quaver-Autoplay
 ```
-
+```
+cd .\Quaver-Autoplay\
+```
 
