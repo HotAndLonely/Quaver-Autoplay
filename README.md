@@ -5,7 +5,7 @@
 > Please don't use this code to gain an advantage in the game. It ruins the experience for the rest of the players,
 >  and you'll get caught because it's very obvious. <b>If you still want to try it, play offline.</b>
 
-# Quaver-Autoplay 🎵🤖
+# Quaver-Autoplay 🎵 🤖
 Quaver rhythm game simple autoplay script.
 
 Prerequisites:
